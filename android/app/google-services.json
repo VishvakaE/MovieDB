@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "777346711149",
+    "project_id": "loginfirebase-1f2a9",
+    "storage_bucket": "loginfirebase-1f2a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777346711149:android:5b1088ec03d369fc18c964",
+        "android_client_info": {
+          "package_name": "com.example.moviedb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEszlSBK4LZgzy_R5LgN7lMr1-F4A_WEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
